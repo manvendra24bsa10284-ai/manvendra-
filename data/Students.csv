@@ -1,0 +1,15 @@
+ID,RegNo,FullName,Email,Status,DateOfBirth,PhoneNumber,Address,Department,Major,EnrollmentDate,GraduationDate,Active
+S001,STU2024001,John Doe,john.doe@university.edu,ACTIVE,2000-05-15,+1-555-0101,"123 Main St, Cityville, State 12345",Computer Science,Software Engineering,2022-08-15,2026-05-15,true
+S002,STU2024002,Jane Smith,jane.smith@university.edu,ACTIVE,2001-02-28,+1-555-0102,"456 Oak Ave, Townsville, State 12346",Mathematics,Applied Mathematics,2022-08-15,2026-05-15,true
+S003,STU2024003,Robert Johnson,robert.johnson@university.edu,ACTIVE,2000-11-12,+1-555-0103,"789 Pine Rd, Villageton, State 12347",Physics,Quantum Physics,2022-08-15,2026-05-15,true
+S004,STU2024004,Emily Brown,emily.brown@university.edu,ACTIVE,2001-07-23,+1-555-0104,"321 Elm St, Hamletville, State 12348",English,Literature,2022-08-15,2026-05-15,true
+S005,STU2024005,Michael Wilson,michael.wilson@university.edu,ACTIVE,2000-12-30,+1-555-0105,"654 Cedar Ln, Boroughburg, State 12349",Business,Finance,2022-08-15,2026-05-15,true
+S006,STU2024006,Sarah Davis,sarah.davis@university.edu,ACTIVE,2001-04-17,+1-555-0106,"987 Birch Dr, Municipality, State 12350",Biology,Microbiology,2022-08-15,2026-05-15,true
+S007,STU2024007,David Miller,david.miller@university.edu,ACTIVE,2000-09-05,+1-555-0107,"147 Maple Way, Districtown, State 12351",Chemistry,Organic Chemistry,2022-08-15,2026-05-15,true
+S008,STU2024008,Jennifer Taylor,jennifer.taylor@university.edu,ACTIVE,2001-01-20,+1-555-0108,"258 Walnut Ct, Countyville, State 12352",Psychology,Clinical Psychology,2022-08-15,2026-05-15,true
+S009,STU2024009,Christopher Anderson,chris.anderson@university.edu,INACTIVE,2000-06-11,+1-555-0109,"369 Spruce Pl, Parishburg, State 12353",History,European History,2022-08-15,2026-05-15,false
+S010,STU2024010,Amanda Thomas,amanda.thomas@university.edu,ACTIVE,2001-03-08,+1-555-0110,"741 Oakwood Ave, Township, State 12354",Economics,Development Economics,2022-08-15,2026-05-15,true
+S011,STU2024011,James Jackson,james.jackson@university.edu,ACTIVE,2000-08-25,+1-555-0111,"852 Pinehurst St, Precinctville, State 12355",Computer Science,Artificial Intelligence,2022-08-15,2026-05-15,true
+S012,STU2024012,Jessica White,jessica.white@university.edu,ACTIVE,2001-05-14,+1-555-0112,"963 Cedarwood Dr, Divisiontown, State 12356",Mathematics,Statistics,2022-08-15,2026-05-15,true
+S013,STU2024013,Daniel Harris,daniel.harris@university.edu,PROBATION,2000-10-03,+1-555-0113,"159 Birchwood Ln, Sectorville, State 12357",Physics,Astrophysics,2022-08-15,2026-05-15,true
+S014,STU2024014,Michelle Martin,michelle.martin@university.edu,ACTIVE,2001-06-19,+1-555-0114,"357 Elmwood Rd, Zoneburg, State 12358",English,Creative Writing,2022-08-15,2026-05-15,true
